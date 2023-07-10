@@ -3,9 +3,12 @@ A responsive website that displays available books in the store, along with thei
 
 ## Screenshots:
 ![image](https://github.com/lakshmii07/Online-Bookstore/assets/108820383/5e12a9bc-4cc9-4293-8910-83f541df03d9)
+
 ![image](https://github.com/lakshmii07/Online-Bookstore/assets/108820383/39123fde-b274-4ce4-b4c6-cb2b65b0ca1f)
 
+![image](https://github.com/lakshmii07/Online-Bookstore/assets/108820383/d94638e2-a06e-4518-8fb5-c4caf372c38a)
 
+![image](https://github.com/lakshmii07/Online-Bookstore/assets/108820383/4c6e0e6e-260b-438a-85c4-0045829e86eb)
 
 ## Setup:
 * Install Xampp if not already installed. Can be downloaded from https://www.apachefriends.org/download.html
@@ -19,5 +22,3 @@ A responsive website that displays available books in the store, along with thei
 ## Website Link :
 <a href="http://shivangibookshop.byethost7.com">http://shivangibookshop.byethost7.com</a>
 
-## Licence :
-MIT - see the accompanying [LICENSE](https://github.com/shivangigupta1404/BookStore/blob/master/LICENSE) file for details.
